@@ -1,0 +1,9 @@
+{
+  "name": "neelbhanushali/php-oop",
+  "description": "PHP OOP",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
